@@ -22,3 +22,20 @@ technologies our entire lives.
 * Digital Estates
 * Privacy Checkup
 
+## Examples
+
+![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)
+
+
+###### Solutions
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
