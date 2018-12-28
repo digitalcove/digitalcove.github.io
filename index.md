@@ -29,12 +29,12 @@ technologies our entire lives.
 
 ###### Solutions
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| package      | archiving  | accounts | privacy  | social   |
+|:-------------|:-----------|:---------|:---------|:---------|
+| basic        | included   |	       |          |          |
+| social       | included   | included |          |          |
+| estate plan  | included   | included |          | included |
+| checkup      | 	    |	       | included |          |
 
 ### There's a horizontal rule below this.
 
