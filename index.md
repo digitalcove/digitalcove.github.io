@@ -22,20 +22,30 @@ technologies our entire lives.
 * Digital Estates
 * Privacy Checkup
 
+* * *
+
 ## Examples
 
 ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)
 
 
-###### Solutions
+## Solutions
 
-| package      | archiving  | accounts | privacy  | social   |
-|:-------------|:-----------|:---------|:---------|:---------|
-| basic        | included   |	       |          |          |
-| social       | included   | included |          |          |
-| estate plan  | included   | included |          | included |
-| checkup      | 	    |	       | included |          |
+| package      | archiving | accounts | privacy | social |
+|:-------------|:----------|:---------|:--------|:-------|
+| basic        | yes       |	      |         |        |
+| social       | yes       | yes      |         |        |
+| estate plan  | yes       | yes      |         | yes    |
+| checkup      | 	   |	      | yes     |        |
 
-### There's a horizontal rule below this.
+We know that every family has a different approach to their digital
+lives, so please contact us to customize a solution that will best fit
+your needs.
 
-* * *
+| package      | archiving | accounts | privacy | social |
+|:-------------|:----------|:---------|:--------|:-------|
+| basic        | yes       |	      |         |        |
+| social       | yes       | yes      |         |        |
+| estate plan  | yes       | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)      |         | yes    |
+| checkup      | 	   |	      | yes     |        |
+
