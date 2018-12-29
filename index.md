@@ -40,7 +40,7 @@ common needs of our client families.
 | social       | yes       | yes      | yes     |        |
 | estate plan  | yes       | yes      |         | yes    |
 | checkup      | 	   |	      | yes     |        |
-| *activity*   | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
+|              | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
 
 
 We know that every family has a different approach to their digital
