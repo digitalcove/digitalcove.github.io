@@ -39,7 +39,7 @@ to get you back on track.
 Perhaps you have a plan for your digital life, but the variety of
 available tools has left you with an incomplete solution.
 
-We can help you finish your project.
+*We can help you finish your project.*
 
 ![parts and tools](/assets/img/assemble-pieces-plan-and-tools-1178498.jpg)
 
@@ -49,8 +49,8 @@ ability for them to be connected with friends and family in creative
 ways, but you worry how all the threads will fit into a big
 picture.
 
-We can help you make sure activities and interactions stay within
-the lines.
+*We can help you make sure activities and interactions stay within
+the lines.*
 
 ![crayons, kid connections](/assets/img/kids-starting-out-making-connections-159579.jpg)
 
@@ -58,7 +58,7 @@ Perhaps you are unsure where to start, what your digital plan should
 be. The idea of a blank digital slate without a plan worries you, but
 you are unsure how to create structure and limits.
 
-We can provide a template or outline based on your goals.
+*We can provide a template or outline based on your goals.*
 
 ![single pencil, blank canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)
 
