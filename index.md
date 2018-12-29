@@ -31,8 +31,9 @@ technologies our entire lives.
 
 ## Solutions
 
-| package      | archiving | accounts | privacy | social |
+|              | archiving | accounts | privacy | social |
 |:-------------|:----------|:---------|:--------|:-------|
+| *package*    | ![lots to archive](/assets/img/assemble-pieces-plan-and-tools-1178498.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
 | basic        | yes       |	      |         |        |
 | social       | yes       | yes      |         |        |
 | estate plan  | yes       | yes      |         | yes    |
@@ -41,12 +42,3 @@ technologies our entire lives.
 We know that every family has a different approach to their digital
 lives, so please contact us to customize a solution that will best fit
 your needs.
-
-| package      | archiving | accounts | privacy | social |
-|:-------------|:----------|:---------|:--------|:-------|
-|  | ![lots to archive](/assets/img/assemble-pieces-plan-and-tools-1178498.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
-| basic        | yes       |	      |         |        |
-| social       | yes       | yes      |         |        |
-| estate plan  | yes       | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)      |         | yes    |
-| checkup      | 	   |	      | yes     |        |
-
