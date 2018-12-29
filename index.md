@@ -49,7 +49,7 @@ ability for them to be connected with friends and family in creative
 ways, but you worry how all the threads will fit into a big
 picture.
 
-We can help you make sure that activities and interactions stay within
+We can help you make sure activities and interactions stay within
 the lines.
 
 ![crayons, kid connections](/assets/img/kids-starting-out-making-connections-159579.jpg)
