@@ -73,13 +73,13 @@ your needs.
 We have created a number of offering packages that we find cover the
 most common needs of our client families.
 
-|              | archive | accounts | privacy | social |
+| *package*    | archive | accounts | privacy | social |
 |:-------------|:--------|:---------|:--------|:-------|
 | *basic*      | yes     |	    |         |        |
 | *socials*    |         | yes      | yes     | yes    |
 | *estate*     | yes     | yes      |         | yes    |
 | *checkup*    | 	 |	    | yes     |        |
-| **package**  | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![many pencils, blank canvas](/assets/img/empty-canvas-pencils-101010.jpg) |
+|              | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![many pencils, blank canvas](/assets/img/empty-canvas-pencils-101010.jpg) |
 
 We know that every family has a different approach to their digital
 lives, so please contact us to customize a solution that will best fit
