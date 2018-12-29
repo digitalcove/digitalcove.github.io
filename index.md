@@ -76,7 +76,7 @@ most common needs of our client families.
 |              | archive | accounts | privacy | social |
 |:-------------|:--------|:---------|:--------|:-------|
 | *basic*      | yes     |	    |         |        |
-| *social*     |         | yes      | yes     | yes    |
+| *socials*    |         | yes      | yes     | yes    |
 | *estate*     | yes     | yes      |         | yes    |
 | *checkup*    | 	 |	    | yes     |        |
 | **package**  | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![many pencils, blank canvas](/assets/img/empty-canvas-pencils-101010.jpg) |
