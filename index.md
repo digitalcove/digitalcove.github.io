@@ -44,6 +44,7 @@ your needs.
 
 | package      | archiving | accounts | privacy | social |
 |:-------------|:----------|:---------|:--------|:-------|
+|  | ![lots to archive](/assets/img/assemble-pieces-plan-and-tools-1178498.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
 | basic        | yes       |	      |         |        |
 | social       | yes       | yes      |         |        |
 | estate plan  | yes       | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)      |         | yes    |
