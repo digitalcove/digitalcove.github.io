@@ -17,10 +17,18 @@ technologies our entire lives.
 
 ## Services
 
+We have created a set of services for the core digital life activities
+and we are able to assist you and your family to optimize your current
+approaches in each of these areas.
+
 * Digital Archiving
 * Account Management
 * Digital Estates
 * Privacy Checkup
+
+Whether you are considering some of these activities for the first
+time, or are an established pro, we can help fill in the gaps.
+
 
 * * *
 
