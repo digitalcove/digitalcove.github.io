@@ -26,7 +26,25 @@ technologies our entire lives.
 
 ## Examples
 
-![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)
+Perhaps you have a plan for your digital life, but the variety of
+available tools has left you with an incomplete solution. We can help
+you finish your project.
+
+![parts and tools](/assets/img/assemble-pieces-plan-and-tools-1178498.jpg)
+
+Perhaps your kids are growing older and beginning to inquire and
+experiment with how best to make online connections. You value the
+ability for them to be connected with friends and family in creative
+ways, but you worry how the all the threads will fit into a big
+picture, and how the activities can stay within the lines.
+
+![crayons, kid connections](/assets/img/kids-starting-out-making-connections-159579.jpg)
+
+Perhaps you are unsure where to start, what your digital plan should
+be. The idea of a blank digital slate without a plan worries you, but
+you are unsure how to create structure and limits.
+
+![single pencil, blank canvas](/assets/img/empty-canvas-one-pencil-316466.jpg)
 
 
 ## Solutions
@@ -38,9 +56,9 @@ common needs of our client families.
 |:-------------|:----------|:---------|:--------|:-------|
 | basic        | yes       |	      |         |        |
 | social       | yes       | yes      | yes     |        |
-| estate plan  | yes       | yes      |         | yes    |
+| estate       | yes       | yes      |         | yes    |
 | checkup      | 	   |	      | yes     |        |
-|              | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![single pencil canvas](/assets/img/empty-canvas-one-pencil-316466.jpg) |
+|              | ![lots to archive](/assets/img/archive-shelves-256559.jpg) | ![many overlapping accounts](/assets/img/overlapping-accounts-camera-1391374.jpg) | ![clicking a new app](/assets/img/clicking-app-433617.jpg) | ![many pencils, blank canvas](/assets/img/empty-canvas-pencils.jpg) |
 
 
 We know that every family has a different approach to their digital
